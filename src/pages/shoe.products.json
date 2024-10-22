@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce17e"
+  },
+  "name": "Off-White x Air Jordan 1 Retro High OG 'Chicago'",
+  "section": "shoes",
+  "price": 399999,
+  "rating": 4,
+  "image": "images/gallery15.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce17f"
+  },
+  "name": "Dior x Air Jordan 1 High",
+  "section": "shoes",
+  "price": 666700,
+  "rating": 4.5,
+  "image": "images/product-2.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce180"
+  },
+  "name": "Air Jordan 1 High OG 'Rebellionaire'",
+  "section": "shoes",
+  "price": 24500,
+  "rating": 4.5,
+  "image": "images/product-3.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce181"
+  },
+  "name": "Yeezy Boost 350 V2 'Bred'",
+  "section": "shoes",
+  "price": 39999,
+  "rating": 4,
+  "image": "images/product-4.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce182"
+  },
+  "name": "Fear of God Essentials Hoodie SS20 'Cream'",
+  "section": "apparels",
+  "price": 13112,
+  "rating": 4,
+  "image": "images/product-5.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce183"
+  },
+  "name": "Anti Social Social Club Tokyo Hoodie 'Purple'",
+  "section": "apparels",
+  "price": 29999,
+  "rating": 4.5,
+  "image": "images/product-6.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce184"
+  },
+  "name": "Off-White Caravaggio Painting Over T-Shirt ‘Black’",
+  "section": "apparels",
+  "price": 24445,
+  "rating": 4.5,
+  "image": "images/product-7.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce185"
+  },
+  "name": "Drew house mascot hoodie 'Golden Yellow'",
+  "section": "apparels",
+  "price": 20200,
+  "rating": 4,
+  "image": "images/product-8.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce186"
+  },
+  "name": "TAG HEUER Formula 1",
+  "section": "watches",
+  "price": 142800,
+  "rating": 4,
+  "image": "images/product-9.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce187"
+  },
+  "name": "TAG HEUER Carrera",
+  "section": "watches",
+  "price": 576300,
+  "rating": 4.5,
+  "image": "images/product-10.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce188"
+  },
+  "name": "TAG HEUER Autavia",
+  "section": "watches",
+  "price": 408000,
+  "rating": 4.5,
+  "image": "images/product-11.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf44829f5ac8cc57ce189"
+  },
+  "name": "EDOX Chronorally Chronograph",
+  "section": "watches",
+  "price": 149000,
+  "rating": 4,
+  "image": "images/product-12.jpg",
+  "__v": 0
+}]

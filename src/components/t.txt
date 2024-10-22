@@ -1,0 +1,103 @@
+import React from 'react';
+import './index.css'; // Import your custom CSS file here
+
+function Home() {
+    return (
+        <div>
+            {/* PreLoader */}
+            <div className="loader">
+                <div className="loader-inner">
+                    <div className="circle"></div>
+                </div>
+            </div>
+            {/* PreLoader Ends */}
+
+            {/* Header */}
+            <header className="header">
+                <nav className="navbar navbar-expand-lg fixed-top py-3">
+                    <div className="container">
+                        <a href="#" className="navbar-brand text-uppercase font-weight-bold"><img id="logo" src="/images/logo.png" style={{ height: '50px' }} alt="Logo" /></a>
+                        <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" className="navbar-toggler navbar-toggler-right"><i className="fa fa-bars"></i></button>
+                        <div id="navbarSupportedContent" className="collapse navbar-collapse">
+                            <ul className="navbar-nav ml-auto">
+                                <li className="nav-item active"><a href="Home.html" className="nav-link text-uppercase font-weight-bold">Home</a></li>
+                                <li className="nav-item"><a href="index.html" className="nav-link text-uppercase font-weight-bold">Products</a></li>
+                                <li className="nav-item"><a href="aboutus.html" className="nav-link text-uppercase font-weight-bold">About</a></li>
+                                <li className="nav-item"><a href="contactus.html" className="nav-link text-uppercase font-weight-bold">Contact</a></li>
+                                <li className="nav-item"><a href="Login.html" className="nav-link text-uppercase font-weight-bold">Login</a></li>
+                                <li className="nav-item"><a href="cart.html" className="nav-link text-uppercase font-weight-bold"><span className="material-symbols-outlined">shopping_cart</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+
+            {/* Breadcrumb Section */}
+            <div className="breadcrumb-section breadcrumb-bg">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-8 offset-lg-2 text-center">
+                            <div className="breadcrumb-text">
+                                <p>Superstore</p>
+                                <h1>Products</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {/* Mobile Phones Section */}
+            <h2 className="product-title">Mobile Phones</h2>
+            <section>
+                {/* Product Cards */}
+                {/* Replace src and alt attributes with appropriate values */}
+                {/* Replace anchor href with the correct link */}
+                {/* Replace button onClick with the appropriate function */}
+                {/* Repeat this structure for all product cards */}
+            </section>
+
+            {/* Smart Watches Section */}
+            <h2 className="product-title">Smart watches</h2>
+            <section>
+                {/* Product Cards */}
+                {/* Replace src and alt attributes with appropriate values */}
+                {/* Replace anchor href with the correct link */}
+                {/* Replace button onClick with the appropriate function */}
+                {/* Repeat this structure for all product cards */}
+            </section>
+
+            {/* Home Appliances Section */}
+            <h2 className="product-title">Home Appliances</h2>
+            <section>
+                {/* Product Cards */}
+                {/* Replace src and alt attributes with appropriate values */}
+                {/* Replace anchor href with the correct link */}
+                {/* Replace button onClick with the appropriate function */}
+                {/* Repeat this structure for all product cards */}
+            </section>
+
+            {/* Footer */}
+            <footer id="footer" className="overflow-hidden">
+                <div className="container">
+                    <div className="row">
+                        <div className="footer-top-area">
+                            <div className="row d-flex flex-wrap justify-content-between">
+                                <div className="col-lg-3 col-sm-6 pb-3">
+                                    {/* Footer Menu */}
+                                </div>
+                                <div className="col-lg-2 col-sm-6 pb-3">
+                                    {/* Footer Menu */}
+                                </div>
+                                <div className="col-lg-3 col-sm-6 pb-3">
+                                    {/* Footer Menu */}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    );
+}
+
+export default Home;

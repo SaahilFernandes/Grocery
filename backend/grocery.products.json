@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "67179991c243582ff273d608"
+  },
+  "name": "Arabic Salad",
+  "section": "food",
+  "price": 450,
+  "rating": 3.5,
+  "image": "image/Arabic salad2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d609"
+  },
+  "name": "Boneless Wings",
+  "section": "food",
+  "price": 300,
+  "rating": 4,
+  "image": "image/bonless wing_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d60a"
+  },
+  "name": "Caesar Salad",
+  "section": "food",
+  "price": 550,
+  "rating": 4.2,
+  "image": "image/Caesar salad2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d60b"
+  },
+  "name": "Chicken Alfredo",
+  "section": "food",
+  "price": 400,
+  "rating": 3.8,
+  "image": "image/Chicken Alfredo2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d60c"
+  },
+  "name": "Chicken Sandwich",
+  "section": "food",
+  "price": 320,
+  "rating": 4.3,
+  "image": "image/Chicken sandwich2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d60d"
+  },
+  "name": "Diet Pepsi",
+  "section": "food",
+  "price": 220,
+  "rating": 3,
+  "image": "image/Diet_Pepsi_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d60e"
+  },
+  "name": "French Fries",
+  "section": "food",
+  "price": 275,
+  "rating": 4.5,
+  "image": "image/french fries2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d60f"
+  },
+  "name": "Greek Salad",
+  "section": "food",
+  "price": 380,
+  "rating": 4,
+  "image": "image/Greek salad2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d610"
+  },
+  "name": "Hotdog Sandwich",
+  "section": "food",
+  "price": 350,
+  "rating": 4.1,
+  "image": "image/hotdog sandwich2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d611"
+  },
+  "name": "Margarita",
+  "section": "food",
+  "price": 250,
+  "rating": 3.9,
+  "image": "image/Margarita2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d612"
+  },
+  "name": "Mountain Dew",
+  "section": "food",
+  "price": 300,
+  "rating": 3.7,
+  "image": "image/mtnDew_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d613"
+  },
+  "name": "Pepperoni Lovers Pizza",
+  "section": "food",
+  "price": 480,
+  "rating": 4.4,
+  "image": "image/Pepperoni lovers2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d614"
+  },
+  "name": "Philly Steak Sandwich",
+  "section": "food",
+  "price": 390,
+  "rating": 4.2,
+  "image": "image/Philly steak sandwich2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d615"
+  },
+  "name": "Plain Nutella",
+  "section": "food",
+  "price": 275,
+  "rating": 4.6,
+  "image": "image/plain Nutella2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d616"
+  },
+  "name": "Tuna Salad",
+  "section": "food",
+  "price": 550,
+  "rating": 4.3,
+  "image": "image/Tuna salad2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d617"
+  },
+  "name": "Turkey Sandwich",
+  "section": "food",
+  "price": 380,
+  "rating": 4,
+  "image": "image/turkey sandwich2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d618"
+  },
+  "name": "Water Bottle",
+  "section": "food",
+  "price": 220,
+  "rating": 3.8,
+  "image": "image/Water-min_636021951390013926.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d619"
+  },
+  "name": "Wedges",
+  "section": "food",
+  "price": 300,
+  "rating": 4.1,
+  "image": "image/wedges2_big.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d61a"
+  },
+  "name": "Spicy Chicken Curry",
+  "section": "food",
+  "price": 450,
+  "rating": 4.2,
+  "image": "image/img1.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d61b"
+  },
+  "name": "Fried Rice",
+  "section": "food",
+  "price": 400,
+  "rating": 3.8,
+  "image": "image/img2.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d61c"
+  },
+  "name": "Paneer Tikka",
+  "section": "food",
+  "price": 500,
+  "rating": 4.3,
+  "image": "image/img3.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d61d"
+  },
+  "name": "Chicken Wings",
+  "section": "food",
+  "price": 350,
+  "rating": 4.1,
+  "image": "image/img4.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d61e"
+  },
+  "name": "Chili Chicken",
+  "section": "food",
+  "price": 480,
+  "rating": 4,
+  "image": "image/img5.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d61f"
+  },
+  "name": "Spicy Fish Curry",
+  "section": "food",
+  "price": 550,
+  "rating": 4.5,
+  "image": "image/img6.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d620"
+  },
+  "name": "Prawn Salad",
+  "section": "food",
+  "price": 650,
+  "rating": 4.2,
+  "image": "image/img7.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d621"
+  },
+  "name": "Shrimp Delight",
+  "section": "food",
+  "price": 600,
+  "rating": 4.6,
+  "image": "image/img8.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d622"
+  },
+  "name": "Red Chili Powder",
+  "section": "ingredient",
+  "price": 220,
+  "rating": 3.5,
+  "image": "image/img9.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d623"
+  },
+  "name": "Curry Powder",
+  "section": "ingredient",
+  "price": 300,
+  "rating": 3.7,
+  "image": "image/img10.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d624"
+  },
+  "name": "Pepper Powder",
+  "section": "ingredient",
+  "price": 270,
+  "rating": 3.8,
+  "image": "image/img11.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d625"
+  },
+  "name": "Paprika",
+  "section": "ingredient",
+  "price": 250,
+  "rating": 4,
+  "image": "image/img12.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d626"
+  },
+  "name": "Coriander Powder",
+  "section": "ingredient",
+  "price": 300,
+  "rating": 4.1,
+  "image": "image/img13.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d627"
+  },
+  "name": "Butter",
+  "section": "ingredient",
+  "price": 320,
+  "rating": 4.3,
+  "image": "image/img14.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d628"
+  },
+  "name": "Turmeric Powder",
+  "section": "ingredient",
+  "price": 290,
+  "rating": 4.5,
+  "image": "image/img15.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d629"
+  },
+  "name": "Cumin Powder",
+  "section": "ingredient",
+  "price": 230,
+  "rating": 3.9,
+  "image": "image/img16.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d62a"
+  },
+  "name": "Paneer Masala",
+  "section": "food",
+  "price": 480,
+  "rating": 4.4,
+  "image": "image/img25.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d62b"
+  },
+  "name": "Bharwa Baingan",
+  "section": "food",
+  "price": 410,
+  "rating": 4.2,
+  "image": "image/img26.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d62c"
+  },
+  "name": "Kadai Paneer",
+  "section": "food",
+  "price": 600,
+  "rating": 4.6,
+  "image": "image/img27.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67179991c243582ff273d62d"
+  },
+  "name": "Fish Stew",
+  "section": "food",
+  "price": 550,
+  "rating": 4.1,
+  "image": "image/img28.jpg",
+  "__v": 0
+}]
